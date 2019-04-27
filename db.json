@@ -10,5 +10,57 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "players": [
+    {
+      "id": 1,
+      "number": "00",
+      "name": "Javier Justiz"
+    },
+     {
+      "id": 2,
+      "number": "10",
+      "name": "Renaldas Seibutis"
+    },
+    {
+      "id": 3,
+      "number": "11",
+      "name": "Nemadja Radovic"
+    },
+        {
+      "id": 4,
+      "number": "12",
+      "name": "Carlos Alocen"
+    },
+    {
+      "id": 5,
+      "number": "17",
+      "name": "Fran Vazquez"
+    },
+    {
+      "id": 6,
+      "number": "3",
+      "name": "Nacho Martin"
+    },
+    {
+      "id": 7,
+      "number": "4",
+      "name": "Lester McCalebb"
+    },
+    {
+      "id": 8,
+      "number": "5",
+      "name": "Stanley Okoye"
+    },
+    {
+      "id": 9,
+      "number": "7",
+      "name": "Jonathan Barreiro"
+    },
+    {
+      "id": 10,
+      "number": "8",
+      "name": "Johnny Berhanemeskel"
+    },
+   ]
 }
